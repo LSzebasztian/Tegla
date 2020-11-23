@@ -1,0 +1,7 @@
+C:\Users\Sebi\source\repos\Tegla\Tegla\bin\Debug\Tegla.exe.config
+C:\Users\Sebi\source\repos\Tegla\Tegla\bin\Debug\Tegla.exe
+C:\Users\Sebi\source\repos\Tegla\Tegla\bin\Debug\Tegla.pdb
+C:\Users\Sebi\source\repos\Tegla\Tegla\obj\Debug\Tegla.csprojAssemblyReference.cache
+C:\Users\Sebi\source\repos\Tegla\Tegla\obj\Debug\Tegla.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\Tegla\Tegla\obj\Debug\Tegla.exe
+C:\Users\Sebi\source\repos\Tegla\Tegla\obj\Debug\Tegla.pdb
